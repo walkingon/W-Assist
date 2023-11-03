@@ -7,18 +7,18 @@
     - 普通对话
     - 函数调用
         - 对文件提问
-            - ![对文件提问](https://github.com/walkingon/W-Assist/blob/main/media/gif/chat-file.gif)
+            - ![对文件提问](https://walkingon.github.io/gifs/w-assist/chat-file.gif)
         - 图片生成
-            - ![图片生成](https://github.com/walkingon/W-Assist/blob/main/media/gif/chat-img.gif)
+            - ![图片生成](https://walkingon.github.io/gifs/w-assist/chat-img.gif)
 - 补全感知
     - 文本补全
-        - ![文本补全](https://github.com/walkingon/W-Assist/blob/main/media/gif/completion-text.gif)
+        - ![文本补全](https://walkingon.github.io/gifs/w-assist/completion-text.gif)
     - 代码补全
-        - ![代码补全](https://github.com/walkingon/W-Assist/blob/main/media/gif/completion-code.gif)
+        - ![代码补全](https://walkingon.github.io/gifs/w-assist/completion-code.gif)
 - 文本解读
-    -  ![文本解读](https://github.com/walkingon/W-Assist/blob/main/media/gif/explain.gif)
+    -  ![文本解读](https://walkingon.github.io/gifs/w-assist/explain.gif)
 - 中英互译
-    - ![中英互译](https://github.com/walkingon/W-Assist/blob/main/media/gif/translate.gif)
+    - ![中英互译](https://walkingon.github.io/gifs/w-assist/translate.gif)
 
 ## 使用方法
 ### 安装与设置
