@@ -3,6 +3,8 @@
 工作区智能助理。AI对话，文件摘要，图片生成，补全感知，内容解读，中英互译。
 [去安装VS Code扩展](https://marketplace.visualstudio.com/items?itemName=kouyaqi.workspace-assistant)
 
+[Souce Code](https://github.com/walkingon/workspace-assistant-vscode-ext)
+
 ## 功能
 - AI聊天
     - 普通对话
